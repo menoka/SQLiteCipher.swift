@@ -15,8 +15,7 @@ DESC
   s.homepage         = "https://github.com/stephencelis/SQLiteCipher.swift"
   s.license          = 'MIT'
   s.author           = { "Stephen Celis" => "stephen@stephencelis.com" }
-  s.source           = { :git => "https://github.com/gblotter/SQLiteCipher.swift.git", :branch => 'inProgress/SQLiteCipher-with-podspec' }
-  # s.source           = { :git => "https://github.com/stephencelis/SQLiteCipher.swift.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/teriiehina/SQLiteCipher.swift.git", :branch => 'master' }
   s.social_media_url = 'https://twitter.com/stephencelis'
 
   s.module_name      = 'SQLiteCipher'
