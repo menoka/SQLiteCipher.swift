@@ -24,7 +24,7 @@ DESC
   s.osx.deployment_target = "10.9"
  
   s.dependency 'SQLCipher'
-  s.dependency 'SQLite.swift'
+  s.dependency 'SQLite.swift', :branch => 'xcode8'
 
   s.source_files = "SQLiteCipher/**/*.{c,h,m,swift}"
 end
