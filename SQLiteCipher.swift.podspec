@@ -15,7 +15,7 @@ DESC
   s.homepage         = "https://github.com/stephencelis/SQLiteCipher.swift"
   s.license          = 'MIT'
   s.author           = { "Stephen Celis" => "stephen@stephencelis.com" }
-  s.source           = { :git => "https://github.com/menoka/SQLiteCipher.swift.git", :branch => 'master' }
+  s.source           = { :git => "https://github.com/menoka/SQLiteCipher.swift.git" }
   s.social_media_url = 'https://twitter.com/stephencelis'
 
   s.module_name      = 'SQLiteCipher'
